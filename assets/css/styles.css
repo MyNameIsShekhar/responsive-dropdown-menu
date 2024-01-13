@@ -81,8 +81,11 @@ a {
 
 .header__logo {
   color: var(--dark-color);
-  width: 100%;
+  width: 60%;
   height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .header__toggle {
