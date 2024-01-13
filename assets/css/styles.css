@@ -81,6 +81,8 @@ a {
 
 .header__logo {
   color: var(--dark-color);
+  width: 100%;
+  height: auto;
 }
 
 .header__toggle {
