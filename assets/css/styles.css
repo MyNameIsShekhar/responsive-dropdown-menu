@@ -76,19 +76,7 @@ a {
 
 /*===== NAV =====*/
 @media screen and (max-width: 768px) {
-  .nav {
-    position: fixed;
-    top: 0;
-    left: -100%;
-    background-color: var(--first-color);
-    width: 80%;
-    height: 100vh;
-    padding: 2rem 0;
-    z-index: var(--z-fixed);
-    transition: .5s;
-    overflow-y: auto;
-  }
-}
+  
 
 .nav__content {
   display: flex;
